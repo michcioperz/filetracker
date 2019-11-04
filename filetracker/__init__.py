@@ -82,6 +82,8 @@
 
    .. autoclass:: filetracker.client.remote_data_store.RemoteDataStore
 
+   .. autoclass:: filetracker.client.s3_data_store.S3DataStore
+
    .. autoclass:: filetracker.client.lock_manager.LockManager
        :members:
 
